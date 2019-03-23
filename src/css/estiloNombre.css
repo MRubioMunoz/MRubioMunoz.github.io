@@ -1,0 +1,17 @@
+body{
+    font-family: 'Enriqueta', serif;
+}
+
+.font{
+    font-family: 'Permanent Marker', cursive;
+}
+
+@font-face {
+    src: url('../css/SweetCookie.ttf')  format('truetype');
+    font-family: 'Sweet Cookie';
+}
+
+.alejandra{
+    font-family: 'Sweet Cookie';
+}
+
